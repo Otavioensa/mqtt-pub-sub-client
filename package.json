@@ -1,0 +1,22 @@
+{
+  "name": "mqtt-implementation",
+  "version": "1.0.0",
+  "description": "Repository created for providing a basic MQTT publisher/subscriber implementation",
+  "main": "publisher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otavioensa/mqtt-implementation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Otavioensa/mqtt-implementation/issues"
+  },
+  "homepage": "https://github.com/Otavioensa/mqtt-implementation#readme",
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  }
+}
