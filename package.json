@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Otavioensa/mqtt-implementation#readme",
   "dependencies": {
     "mqtt": "^2.18.8"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
