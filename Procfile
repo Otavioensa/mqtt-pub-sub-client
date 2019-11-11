@@ -1,2 +1,1 @@
-cd ./src/subscriber
-node index.js
+web:  node src/subscriber/index.js
